@@ -2450,6 +2450,10 @@
 			vertical-align: middle;
 		}
 
+		    .title-name{
+        box-shadow: 8px 8px 8px -5px cyan;
+    }
+
 		.feature .content {
 			display: inline-block;
 			padding: 3.5em;
