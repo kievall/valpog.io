@@ -56,56 +56,56 @@
 		box-sizing: border-box;
 	}
 
-/* Containers */
+/* container2s */
 
-	.container {
+	.container2 {
 		margin-left: auto;
 		margin-right: auto;
 	}
 
-	.container.\31 25\25 {
+	.container2.\31 25\25 {
 		width: 100%;
 		max-width: 63.75em;
 		min-width: 51em;
 	}
 
-	.container.\37 5\25 {
+	.container2.\37 5\25 {
 		width: 38.25em;
 	}
 
-	.container.\35 0\25 {
+	.container2.\35 0\25 {
 		width: 25.5em;
 	}
 
-	.container.\32 5\25 {
+	.container2.\32 5\25 {
 		width: 12.75em;
 	}
 
-	.container {
+	.container2 {
 		width: 51em;
 	}
 
 	@media screen and (max-width: 1680px) {
 
-		.container.\31 25\25 {
+		.container2.\31 25\25 {
 			width: 100%;
 			max-width: 63.75em;
 			min-width: 51em;
 		}
 
-		.container.\37 5\25 {
+		.container2.\37 5\25 {
 			width: 38.25em;
 		}
 
-		.container.\35 0\25 {
+		.container2.\35 0\25 {
 			width: 25.5em;
 		}
 
-		.container.\32 5\25 {
+		.container2.\32 5\25 {
 			width: 12.75em;
 		}
 
-		.container {
+		.container2 {
 			width: 51em;
 		}
 
@@ -113,25 +113,25 @@
 
 	@media screen and (max-width: 1280px) {
 
-		.container.\31 25\25 {
+		.container2.\31 25\25 {
 			width: 100%;
 			max-width: 60em;
 			min-width: 48em;
 		}
 
-		.container.\37 5\25 {
+		.container2.\37 5\25 {
 			width: 36em;
 		}
 
-		.container.\35 0\25 {
+		.container2.\35 0\25 {
 			width: 24em;
 		}
 
-		.container.\32 5\25 {
+		.container2.\32 5\25 {
 			width: 12em;
 		}
 
-		.container {
+		.container2 {
 			width: 48em;
 		}
 
@@ -139,25 +139,25 @@
 
 	@media screen and (max-width: 980px) {
 
-		.container.\31 25\25 {
+		.container2.\31 25\25 {
 			width: 100%;
 			max-width: 118.75%;
 			min-width: 95%;
 		}
 
-		.container.\37 5\25 {
+		.container2.\37 5\25 {
 			width: 71.25%;
 		}
 
-		.container.\35 0\25 {
+		.container2.\35 0\25 {
 			width: 47.5%;
 		}
 
-		.container.\32 5\25 {
+		.container2.\32 5\25 {
 			width: 23.75%;
 		}
 
-		.container {
+		.container2 {
 			width: 95%;
 		}
 
@@ -165,25 +165,25 @@
 
 	@media screen and (max-width: 840px) {
 
-		.container.\31 25\25 {
+		.container2.\31 25\25 {
 			width: 100%;
 			max-width: 118.75%;
 			min-width: 95%;
 		}
 
-		.container.\37 5\25 {
+		.container2.\37 5\25 {
 			width: 71.25%;
 		}
 
-		.container.\35 0\25 {
+		.container2.\35 0\25 {
 			width: 47.5%;
 		}
 
-		.container.\32 5\25 {
+		.container2.\32 5\25 {
 			width: 23.75%;
 		}
 
-		.container {
+		.container2 {
 			width: 95% !important;
 		}
 
@@ -191,25 +191,25 @@
 
 	@media screen and (max-width: 736px) {
 
-		.container.\31 25\25 {
+		.container2.\31 25\25 {
 			width: 100%;
 			max-width: 112.5%;
 			min-width: 90%;
 		}
 
-		.container.\37 5\25 {
+		.container2.\37 5\25 {
 			width: 67.5%;
 		}
 
-		.container.\35 0\25 {
+		.container2.\35 0\25 {
 			width: 45%;
 		}
 
-		.container.\32 5\25 {
+		.container2.\32 5\25 {
 			width: 22.5%;
 		}
 
-		.container {
+		.container2 {
 			width: 90% !important;
 		}
 
@@ -217,25 +217,25 @@
 
 	@media screen and (max-width: 480px) {
 
-		.container.\31 25\25 {
+		.container2.\31 25\25 {
 			width: 100%;
 			max-width: 125%;
 			min-width: 100%;
 		}
 
-		.container.\37 5\25 {
+		.container2.\37 5\25 {
 			width: 75%;
 		}
 
-		.container.\35 0\25 {
+		.container2.\35 0\25 {
 			width: 50%;
 		}
 
-		.container.\32 5\25 {
+		.container2.\32 5\25 {
 			width: 25%;
 		}
 
-		.container {
+		.container2 {
 			width: 100% !important;
 		}
 
@@ -2244,30 +2244,30 @@
 					background: rgba(224, 224, 224, 0.15);
 				}
 
-	ul.actions {
+	ul.actions2 {
 		cursor: default;
 		text-align: center;
 	}
 
-		ul.actions:last-child {
+		ul.actions2:last-child {
 			margin-bottom: 0;
 		}
 
-		ul.actions li {
+		ul.actions2 li {
 			display: inline-block;
 			padding: 0 0 0 1.5em;
 		}
 
-			ul.actions li:first-child {
+			ul.actions2 li:first-child {
 				padding: 0;
 			}
 
-		ul.actions.vertical li {
+		ul.actions2.vertical li {
 			display: block;
 			padding: 1.5em 0 0 0;
 		}
 
-			ul.actions.vertical li:first-child {
+			ul.actions2.vertical li:first-child {
 				padding: 0;
 			}
 
@@ -2945,11 +2945,11 @@
 
 		/* List */
 
-			ul.actions li {
+			ul.actions2 li {
 				padding: 0 0 0 15px;
 			}
 
-			ul.actions.vertical li {
+			ul.actions2.vertical li {
 				padding: 15px 0 0 0;
 			}
 
@@ -3065,12 +3065,12 @@
 				padding: 0.2em;
 			}
 
-			ul.actions li {
+			ul.actions2 li {
 				display: block;
 				padding: 15px 0 0 0;
 			}
 
-				ul.actions li:first-child {
+				ul.actions2 li:first-child {
 					padding: 0;
 				}
 
